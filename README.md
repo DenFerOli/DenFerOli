@@ -1,6 +1,6 @@
 ## Hi! I'm Denis Fernando
 
-I am a software engineering and analysis and system development student, I want to become a full stack developer.
+I am in the last semester from Analysis and System Development graduation and I'm cursing the 2nd semester from Software Engineering. I'm studying to become a Full Stack Developer.
 
 <div align="center">
   <a href="https://github.com/DenFerOli">
