@@ -1,4 +1,7 @@
 ## Hi! I'm Denis Fernando
+
+I am a software engineering and analysis and system development student, I want to become a full stack developer.
+
 <div align="center">
   <a href="https://github.com/DenFerOli">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=denferoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
