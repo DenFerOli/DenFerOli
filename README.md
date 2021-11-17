@@ -27,7 +27,7 @@ I am in the last semester from Analysis and System Development graduation and I'
   # Languages
   
   I love learn new languages and know other cultures.
-  <div style="display: inline_block, padding: 8px"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="PT-BR" height="40" width="40" src="https://user-images.githubusercontent.com/93955038/142084987-dc9d83a6-74e1-40d8-9a47-d9156eaa065f.png" title="Português" />
   <img align="center" alt="US" height="40" width="40" src="https://user-images.githubusercontent.com/93955038/142084633-5ff1ec86-b6c3-48b2-9e65-6ac52702f369.png" title="English" />
   <img align="center" alt="DE" height="40" width="40" src="https://user-images.githubusercontent.com/93955038/142085255-aec11c2f-34c7-4da6-8536-60988fad6b1d.png" title="Deutsche" />
