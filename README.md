@@ -19,6 +19,7 @@ I am in the last semester from Analysis and System Development graduation and I'
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
+    <img align="center" alt="Cypress" height="40" width="50" src=".\assets\3556671901536211770-256.png" title="MySQL" />
 </div>
   
   ##
