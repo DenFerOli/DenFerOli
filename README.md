@@ -1,6 +1,7 @@
 # Denis Fernando
 
-I am in the last semester from Analysis and System Development graduation and I'm cursing the 2nd semester from Software Engineering. I'm studying to become a Full Stack Developer.
+I'm studying to become an QA Automation Tester.
+I'm graduated in System Analysis and Development, I am currently studying the 4th semester of Bachelor Software Engineer course and I'm studying a postgraduate degree in Software Quality Engineering.
 
   # Stats
 
@@ -17,10 +18,10 @@ I am in the last semester from Analysis and System Development graduation and I'
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Cypress" height="40" width="40" src=".\assets\3556671901536211770-256.png" title="Cypress" />
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" />
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-    <img align="center" alt="Cypress" height="40" width="40" src=".\assets\3556671901536211770-256.png" title="Cypress" />
 </div>
   
   ##
