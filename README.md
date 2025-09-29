@@ -24,7 +24,7 @@ I'm graduated in System Analysis and Development, I am currently studying the 4t
 </div>
   
   ##
-  
+  <!--
   # Languages
   
   I love learn new languages and know other cultures.
@@ -36,7 +36,7 @@ I'm graduated in System Analysis and Development, I am currently studying the 4t
   <img align="center" alt="FR" height="40" width="40" src=".\assets\france.png" title="Français" />
   <img align="center" alt="Ру" height="40" width="40" src=".\assets\ru.png" title="Русский" />
   </div>
-  
+  -->
   ##
   
   # Contact
