@@ -21,19 +21,20 @@ I'm graduated in System Analysis and Development, I am currently studying the 4t
 </div>
   
   ##
-  <!--
+  
   # Languages
   
   I love learn new languages and know other cultures.
   <div style="display: inline_block"><br>
   <img align="center" alt="PT-BR" height="40" width="40" src=".\assets\brasil.png" title="Português" />
   <img align="center" alt="US" height="40" width="40" src=".\assets\united.png" title="English" />
+    <!--
   <img align="center" alt="DE" height="40" width="40" src=".\assets\deutsch.png" title="Deutsch" />
   <img align="center" alt="ES" height="40" width="40" src=".\assets\espana.png" title="Español" />
   <img align="center" alt="FR" height="40" width="40" src=".\assets\france.png" title="Français" />
-  <img align="center" alt="Ру" height="40" width="40" src=".\assets\ru.png" title="Русский" />
+  <img align="center" alt="Ру" height="40" width="40" src=".\assets\ru.png" title="Русский" />-->
   </div>
-  -->
+  
   ##
   
   # Contact
