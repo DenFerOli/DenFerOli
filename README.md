@@ -14,20 +14,23 @@ I'm graduated in System Analysis and Development, I am currently studying the 4t
  
   
 # Skills
-  
-# Skills
-  
-<div style="display: inline_block; display: flex; align-items: center; flex-wrap: wrap; gap: 10px;"><br>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server">
-  <img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
-  <img align="center" alt="Bruno API" height="40" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno API">
-  <img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress">
-</div>
+
+
+<table>
+  <tr>
+    <td><img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"></td>
+    <td><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
+    <td><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
+    <td><img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
+    <td><img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
+    <td><img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
+  </tr>
+  <tr>
+    <td><img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"></td>
+    <td><img align="center" alt="Bruno API" height="40" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno API"></td>
+    <td><img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
+  </tr>
+</table>
   
   ##
   
