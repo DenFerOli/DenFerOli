@@ -27,7 +27,7 @@ I'm graduated in System Analysis and Development, I am currently studying the 4t
   </tr>
   <tr>
     <td><img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"></td>
-    <td><img align="center" alt="Bruno API" height="40" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno API"></td>
+    <td><img align="center" alt="Bruno API" height="40" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno"></td>
     <td><img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
   </tr>
 </table>
