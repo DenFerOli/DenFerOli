@@ -1,7 +1,17 @@
 # Denis Fernando
 
-I'm studying to become an QA Automation Tester.
-I'm graduated in System Analysis and Development, I am currently studying the 4th semester of Bachelor Software Engineer course and I'm studying a postgraduate degree in Software Quality Engineering.
+I'm a test analyst with 3 years of experience working for the credit cooperative Uniprime Central in Brazil.
+
+My main tasks are:
+
+- Manual tests for mobile app and others web aplications;
+- Manual tests for main desktop software, development and maintenance of test automation using SikuliX with Python.
+- Manual tests for internet banking, development and maintenance of test automation using Selenium with Python.
+- Development and maintenance of tests cases with Testlink
+<!--- Development and maintenance of API automation with Bruno -->
+- Execution of queries and updates in database to assist in tests using SQL Server.
+- Open tickets to report bugs and manage tests on gitlab
+- Development of version note and documentation for new features
 
   # Stats
 
