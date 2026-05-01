@@ -1,17 +1,19 @@
 # Denis Fernando
 
-I'm a test analyst with 3 years of experience working for the credit cooperative Uniprime Central in Brazil.
+Test Analyst with 3 years of experience at Uniprime Central (credit cooperative sector in Brazil).
 
-My main tasks are:
+I perform manual and automated tests across mobile apps, web applications, internet banking, and a main desktop system.
 
-- Manual tests for mobile app and others web aplications;
-- Manual tests for main desktop software, development and maintenance of test automation using SikuliX with Python.
-- Manual tests for internet banking, development and maintenance of test automation using Selenium with Python.
-- Development and maintenance of tests cases with Testlink
+Tech stack: Python, Selenium, SikuliX, SQL Server, TestLink, GitLab.
+
+Key contributions:
+
+· Maintained test automation scripts that reduced regression testing time.
+· Wrote and executed SQL queries to validate backend data.
+· Managed bug tracking and test cases on GitLab.
+· Created release notes and feature documentation for end users.
 <!--- Development and maintenance of API automation with Bruno -->
-- Execution of queries and updates in database to assist in tests using SQL Server.
-- Open tickets to report bugs and manage tests on gitlab
-- Development of version note and documentation for new features
+
 
   # Stats
 
