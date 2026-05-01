@@ -8,10 +8,10 @@ Tech stack: Python, Selenium, SikuliX, SQL Server, TestLink, GitLab.
 
 Key contributions:
 
-· Maintained test automation scripts that reduced regression testing time.
-· Wrote and executed SQL queries to validate backend data.
-· Managed bug tracking and test cases on GitLab.
-· Created release notes and feature documentation for end users.
+- Maintained test automation scripts that reduced regression testing time.
+- Wrote and executed SQL queries to validate backend data.
+- Managed bug tracking and test cases on GitLab.
+- Created release notes and feature documentation for end users.
 <!--- Development and maintenance of API automation with Bruno -->
 
 
