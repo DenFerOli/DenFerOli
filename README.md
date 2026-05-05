@@ -15,6 +15,13 @@ Key contributions:
 <!--- Development and maintenance of API automation with Bruno -->
 
 
+Other knowledge
+
+- Postman.
+- JMeter.
+- Scrum.
+- Jira.
+
   # Stats
 
 <div align="center">
