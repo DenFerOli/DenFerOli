@@ -24,11 +24,10 @@ Other knowledge
 
   # Stats
 
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark"/>
+
+ <div align="center">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
 </div>
-  
- 
   
 # Skills
 
