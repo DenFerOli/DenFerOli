@@ -34,22 +34,43 @@ Other knowledge
 
 <table>
   <tr>
-    <td><img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"></td>
     <td><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
     <td><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
     <td><img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
-    <td><img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
-    <td><img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
+
   </tr>
+
+</table>
+  
+  ## PROGRAMMING LANGUAGES
+
+<table>
+  <tr>
+    <td><img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
+
+  </tr>
+</table>
+
+  ## AUTOMATION TOOLS
+
+<table>
+  <tr>
+    <td><img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"></td>
+    <td><img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
+    <td><img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
+  </tr>
+</table>
+
+  ## API
+
+<table>
   <tr>
     <td><img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"></td>
     <td><img align="center" alt="Bruno API" height="40" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno"></td>
-    <td><img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
   </tr>
-</table>
-  
-  ##
-  
+</table>  
+
+
   # Languages
   
   I love learn new languages and know other cultures.
