@@ -37,11 +37,6 @@ Other knowledge
     <td><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
     <td><img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
     <td><img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
-
-  </tr>
-  <tr>
-
-
   </tr>
 </table>
   
@@ -65,9 +60,9 @@ Other knowledge
   <td>
     <img align="center" alt="SikuliX" height="40" width="150" src=".\assets\sikulix.png" title="SikuliX" />
   </td>
-    <img align="center" alt="JMeter" height="40" width="40" src=".\assets\apache-jmeter-white.png" title="JMeter" />
-  <td>
 
+  <td>
+    <img align="center" alt="JMeter" height="40" width="40" src=".\assets\apache-jmeter-white.png" title="JMeter" />
   </td>
   </tr>
 </table>
