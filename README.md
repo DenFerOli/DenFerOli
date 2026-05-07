@@ -61,6 +61,14 @@ Other knowledge
   <tr>
    <td><img align="center" alt="Cypress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
     <td><img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
+
+  <td>
+    <img align="center" alt="SikuliX" height="40" width="150" src=".\assets\sikulix.png" title="SikuliX" />
+  </td>
+    <img align="center" alt="JMeter" height="40" width="40" src=".\assets\apache-jmeter-white.png" title="JMeter" />
+  <td>
+
+  </td>
   </tr>
 </table>
 
