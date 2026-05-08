@@ -31,52 +31,48 @@ Other knowledges
   
 # Skills
 
+<div style="display: flex; gap: 20px; align-items: center">
 
-<table>
-  <tr>
-    <td><img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
-    <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
-    <td><img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
-      <td>
+<img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+    <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+    <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server">
     <img align="center" alt="JMeter" height="50" width="50" src=".\assets\apache-jmeter-white.png" title="JMeter" />
-  </td>
-  </tr>
-</table>
+</div>
   
   ## PROGRAMMING LANGUAGES
 
-<table>
-  <tr>
- 
-  <td><img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"></td>
-  <td><img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; align-items: center">
+
+<img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+<img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
+
+</div>
 
   ## AUTOMATION TOOLS
 
-<table>
-  <tr>
-   <!--<td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>-->
-    <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
+<!-- <img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"> -->
 
-  <td>
-    <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
-  </td>
+<div style="display: flex; gap: 20px; align-items: center">
+ <img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" >
+  <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
+
+</div>
 
 
-  </tr>
-</table>
 
   ## API  
 
-<table>
+<!-- <table>
   <tr>
     <td><img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"></td>
     <td><img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno"></td>
   </tr>
-</table>
+</table> -->
 
+<div>
+  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
+  <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
+</div>
 
   # Languages
   
