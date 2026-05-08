@@ -15,7 +15,7 @@ Key contributions:
 <!--- Development and maintenance of API automation with Bruno -->
 
 
-Other knowledge
+Other knowledges
 
 - Postman.
 - JMeter.
@@ -37,6 +37,9 @@ Other knowledge
     <td><img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
     <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
     <td><img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
+      <td>
+    <img align="center" alt="JMeter" height="50" width="50" src=".\assets\apache-jmeter-white.png" title="JMeter" />
+  </td>
   </tr>
 </table>
   
@@ -54,16 +57,14 @@ Other knowledge
 
 <table>
   <tr>
-   <td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
+   <!--<td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>-->
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
 
   <td>
-    <img align="center" alt="SikuliX" height="50" width="170" src=".\assets\sikulix.png" title="SikuliX" />
+    <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
   </td>
 
-  <td>
-    <img align="center" alt="JMeter" height="50" width="50" src=".\assets\apache-jmeter-white.png" title="JMeter" />
-  </td>
+
   </tr>
 </table>
 
