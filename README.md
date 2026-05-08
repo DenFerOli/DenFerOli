@@ -21,7 +21,7 @@ Other knowledges
 - Scrum.
 - Jira.
 
-  # Stats
+# Stats
 
  <div align="center">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
@@ -35,7 +35,7 @@ Other knowledges
     <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
     <td><img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
       <td>
-    <img align="center" alt="JMeter" height="50" width="50" src=".\assets\apache-jmeter-white.png" title="JMeter" />
+    <img align="center" alt="JMeter" height="50" width="50" src=".\assets\jmeter.png" title="JMeter" />
   </td>
   </tr>
 </table>
@@ -80,6 +80,12 @@ Other knowledges
   <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
   </td>
 </table>
+
+<div>
+  <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
+    <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
+</div>
+
 
   # Languages
   
