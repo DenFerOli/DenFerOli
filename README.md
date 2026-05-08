@@ -1,102 +1,101 @@
 # Denis Fernando
 
-Test Analyst with 3 years of experience at Uniprime Central (credit cooperative sector in Brazil).
+**Test Analyst | QA Automation | 3+ years experience**
 
-I perform manual and automated tests across mobile apps, web applications, internet banking, and a main desktop system.
+I perform manual and automated tests across:
+- 📱 Mobile apps
+- 🌐 Web applications  
+- 🏦 Internet banking
+- 💻 Main desktop system
 
-Tech stack: Python, Selenium, SikuliX, SQL Server, TestLink, GitLab.
+## 🚀 Key contributions
 
-Key contributions:
-
-- Maintained test automation scripts that reduced regression testing time.
-- Wrote and executed SQL queries to validate backend data.
-- Managed bug tracking and test cases on GitLab.
-- Created release notes and feature documentation for end users.
+- ✅ Maintained test automation scripts that reduced regression testing time
+- 📊 Wrote and executed SQL queries to validate backend data
+- 🐛 Managed bug tracking and test cases on GitLab
+- 📝 Created release notes and feature documentation for end users
 <!--- Development and maintenance of API automation with Bruno -->
 
-Other knowledges
+Other knowledge
 
 - Postman.
 - JMeter.
 - Scrum.
 - Jira.
 
-# Stats
+## 🛠️ Tech Stack
 
- <div align="center">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
-</div>
-
-# Skills
+**LANGUAGES**
 
 <table>
   <tr>
-    <td><img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
-    <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
-    <td><img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
-      <!-- <td>
-    <img align="center" alt="JMeter" height="50" width="50" src=".\assets\jmeter.png" title="JMeter" />
-  </td> -->
+    <td>
+      <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+    </td>
+    <td>
+      <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python">
+    </td>
+    <td>
+      <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+    </td>
+    <td>
+      <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+      </td>
+    </td>
   </tr>
 </table>
 
-## PROGRAMMING LANGUAGES
+**DATABASES**
 
 <table>
   <tr>
- 
-  <td><img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript"></td>
-  <td><img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
+    <td>
+      <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server">
+    </td>
+    <td>
+        <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    </td>
   </tr>
 </table>
 
-## AUTOMATION TOOLS
+**AUTOMATION AND TESTING**
 
 <table>
   <tr>
    <!--<td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>-->
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
-
   <td>
     <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
   </td>
-  </tr>
-</table>
-
-## API  
-
-<!-- <table>
-  <tr>
-    <td><img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"></td>
-    <td><img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno"></td>
-  </tr>
-</table> -->
-
-<table>
   <td>
     <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
   </td>
   <td>
-  <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
+    <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
   </td>
+  </tr>
 </table>
 
-  # Languages
+## Stats
+
+ <div align="center">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+  <!-- ## Languages
   
   I love learn new languages and know other cultures.
   <div style="display: inline_block"><br>
   <img align="center" alt="PT-BR" height="50" width="50" src=".\assets\brasil.png" title="Português" />
   <img align="center" alt="US" height="50" width="50" src=".\assets\united.png" title="English" />
-    <!--
+    
   <img align="center" alt="DE" height="50" width="50" src=".\assets\deutsch.png" title="Deutsch" />
   <img align="center" alt="ES" height="50" width="50" src=".\assets\espana.png" title="Español" />
   <img align="center" alt="FR" height="50" width="50" src=".\assets\france.png" title="Français" />
-  <img align="center" alt="Ру" height="50" width="50" src=".\assets\ru.png" title="Русский" />-->
-  </div>
-  
-  ##
+  <img align="center" alt="Ру" height="50" width="50" src=".\assets\ru.png" title="Русский" />
+  </div> -->
 
-  # Contact
+  ## Contact
  
 <div>  	
   <a href = "mailto:deniferoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Gmail"></a>
