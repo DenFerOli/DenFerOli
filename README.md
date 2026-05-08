@@ -21,12 +21,16 @@ Other knowledges
 - Scrum.
 - Jira.
 
+---
+
 # Stats
 
  <div align="center">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
 </div>
-  
+
+---
+
 # Skills
 
 <table>
@@ -34,13 +38,15 @@ Other knowledges
     <td><img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></td>
     <td><img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></td>
     <td><img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server"></td>
-      <td>
+      <!-- <td>
     <img align="center" alt="JMeter" height="50" width="50" src=".\assets\jmeter.png" title="JMeter" />
-  </td>
+  </td> -->
   </tr>
 </table>
-  
-  ## PROGRAMMING LANGUAGES
+
+---
+
+## PROGRAMMING LANGUAGES
 
 <table>
   <tr>
@@ -50,7 +56,9 @@ Other knowledges
   </tr>
 </table>
 
-  ## AUTOMATION TOOLS
+---
+
+## AUTOMATION TOOLS
 
 <table>
   <tr>
@@ -63,7 +71,9 @@ Other knowledges
   </tr>
 </table>
 
-  ## API  
+---
+
+## API  
 
 <!-- <table>
   <tr>
@@ -81,6 +91,8 @@ Other knowledges
   </td>
 </table>
 
+---
+
   # Languages
   
   I love learn new languages and know other cultures.
@@ -95,7 +107,9 @@ Other knowledges
   </div>
   
   ##
-  
+
+---
+
   # Contact
  
 <div>  	
