@@ -19,8 +19,10 @@ I perform manual and automated tests across:
 
 Other knowledge
 
-- Scrum.
-- Jira.
+- 📋 Scrum
+- 📊 Kanban
+- 🐛 JIRA
+- 📄 Confluence
 
 ## 🛠️ Tech Stack
 
