@@ -13,19 +13,18 @@ I perform manual and automated tests across:
 - ✅ Maintained test automation scripts that reduced regression testing time
 - 📊 Wrote and executed SQL queries to validate backend data
 - 🐛 Managed bug tracking and test cases on GitLab
+- 📋 Write and manage test cases using TestLink for test tracking and organization.
 - 📝 Created release notes and feature documentation for end users
 <!--- Development and maintenance of API automation with Bruno -->
 
 Other knowledge
 
-- Postman.
-- JMeter.
 - Scrum.
 - Jira.
 
 ## 🛠️ Tech Stack
 
-**LANGUAGES**
+**💻 LANGUAGES**
 
 <table>
   <tr>
@@ -45,7 +44,7 @@ Other knowledge
   </tr>
 </table>
 
-**DATABASES**
+**🗄️ DATABASES**
 
 <table>
   <tr>
@@ -58,7 +57,7 @@ Other knowledge
   </tr>
 </table>
 
-**AUTOMATION AND TESTING**
+**⚙️ AUTOMATION AND TESTING**
 
 <table>
   <tr>
