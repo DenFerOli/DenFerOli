@@ -14,7 +14,6 @@ Key contributions:
 - Created release notes and feature documentation for end users.
 <!--- Development and maintenance of API automation with Bruno -->
 
-
 Other knowledges
 
 - Postman.
@@ -24,13 +23,11 @@ Other knowledges
 
   # Stats
 
-
  <div align="center">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
 </div>
   
 # Skills
-
 
 <table>
   <tr>
@@ -66,7 +63,6 @@ Other knowledges
   </tr>
 </table>
 
-
   ## API  
 
 <!-- <table>
@@ -84,8 +80,6 @@ Other knowledges
   <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
   </td>
 </table>
-
-
 
   # Languages
   
