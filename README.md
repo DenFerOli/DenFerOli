@@ -21,15 +21,11 @@ Other knowledges
 - Scrum.
 - Jira.
 
----
-
 # Stats
 
  <div align="center">
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
 </div>
-
----
 
 # Skills
 
@@ -44,8 +40,6 @@ Other knowledges
   </tr>
 </table>
 
----
-
 ## PROGRAMMING LANGUAGES
 
 <table>
@@ -55,8 +49,6 @@ Other knowledges
   <td><img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"></td>
   </tr>
 </table>
-
----
 
 ## AUTOMATION TOOLS
 
@@ -70,8 +62,6 @@ Other knowledges
   </td>
   </tr>
 </table>
-
----
 
 ## API  
 
@@ -91,8 +81,11 @@ Other knowledges
   </td>
 </table>
 
----
-
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
+  <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
+  </div>
+  
   # Languages
   
   I love learn new languages and know other cultures.
@@ -108,13 +101,9 @@ Other knowledges
   
   ##
 
----
-
   # Contact
  
 <div>  	
   <a href = "mailto:deniferoli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Gmail"></a>
   <a href="https://www.linkedin.com/in/denis-fer-oli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"></a> 
-
 </div>
-
