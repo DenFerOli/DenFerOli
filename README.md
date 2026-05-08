@@ -54,7 +54,7 @@ Other knowledge
       <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server">
     </td>
     <td>
-        <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
     </td>
   </tr>
 </table>
@@ -65,16 +65,29 @@ Other knowledge
   <tr>
    <!--<td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>-->
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
-  <td>
-    <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
-  </td>
-  <td>
-    <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
-  </td>
-  <td>
-    <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
-  </td>
+    <td>
+      <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
+    </td>
+    <td>
+      <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
+    </td>
+    <td>
+      <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
+    </td>
   </tr>
+</table>
+
+**🔄VERSION CONTROL**
+
+<table>
+  <tr>
+    <td align="center">
+      <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
+    </td>
+    <td align="center">
+      <img align="center" alt="GitLab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab">
+     </td>
+   </tr>
 </table>
 
 ## Stats
