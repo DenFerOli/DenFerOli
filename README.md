@@ -1,6 +1,6 @@
 # Denis Fernando
 
-**Test Analyst | QA Automation | 3+ years experience**
+**Test Analyst | QA Automation | 2+ years experience**
 
 I perform manual and automated tests across:
 - 📱 Mobile apps
