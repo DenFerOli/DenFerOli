@@ -81,11 +81,6 @@ Other knowledges
   </td>
 </table>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman">
-  <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
-  </div>
-  
   # Languages
   
   I love learn new languages and know other cultures.
