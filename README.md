@@ -18,13 +18,11 @@ I perform manual and automated tests across:
 
 Other knowledge
 
-- 🚀 Postman
-- 🐻 Bruno
-- 📊 JMeter
 - 📋 Scrum
 - 📊 Kanban
 - 🐛 JIRA
 - 📄 Confluence
+- 🔄 Git / Gitlab
 
 ## 🛠️ Tech Stack
 
@@ -98,18 +96,15 @@ Other knowledge
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
 </div>
 
-  <!-- ## Languages
-  
-  I love learn new languages and know other cultures.
-  <div style="display: inline_block"><br>
-  <img align="center" alt="PT-BR" height="50" width="50" src=".\assets\brasil.png" title="Português" />
-  <img align="center" alt="US" height="50" width="50" src=".\assets\united.png" title="English" />
-    
-  <img align="center" alt="DE" height="50" width="50" src=".\assets\deutsch.png" title="Deutsch" />
-  <img align="center" alt="ES" height="50" width="50" src=".\assets\espana.png" title="Español" />
-  <img align="center" alt="FR" height="50" width="50" src=".\assets\france.png" title="Français" />
-  <img align="center" alt="Ру" height="50" width="50" src=".\assets\ru.png" title="Русский" />
-  </div> -->
+## 🌎 Languages
+
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Professional)
+
+<div align="center">
+  <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" />
+  <img align="center" alt="US" height="40" width="40" src="./assets/united.png" title="English (Professional)" />
+</div>
 
   ## Contact
  
