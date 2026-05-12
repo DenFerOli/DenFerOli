@@ -62,7 +62,9 @@ Other knowledge
 
 <table>
   <tr>
-   <td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
+   <td>
+    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-181717?style=flat&logo=cypress&logoColor=white" height="40" width="130" />
+   </td>
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
     <td>
       <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
@@ -73,8 +75,11 @@ Other knowledge
     <td>
       <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img align="center" alt="JMeter" height="50" width="120" src="https://jmeter.apache.org/images/logo.svg" title="JMeter">
+    </td> -->
+    <td align="center">
+      <img align="center" alt="JMeter" height="50" width="120" src=".\assets\apache-jmeter-white.png" title="JMeter">
     </td>
   </tr>
 </table>
