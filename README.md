@@ -103,15 +103,13 @@ Other knowledge
 <table>
   <tr>
     <td>
-      <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" /> - 🇧🇷 Portuguese (Native)
+      <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" /> Portuguese (Native)
+    </td>
+    <td>
+      <img align="center" alt="PT-BR" height="40" width="40" src="./assets/united.png" title="English (Professional)" /> English (Professional)
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-  <img align="center" alt="US" height="40" width="40" src="./assets/united.png" title="English (Professional)" />
-</div>
 
   ## Contact
  
