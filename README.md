@@ -73,6 +73,9 @@ Other knowledge
     <td>
       <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
     </td>
+    <td align="center">
+      <img align="center" alt="JMeter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jmeter/jmeter-original.svg" title="JMeter">
+    </td>
   </tr>
 </table>
 
