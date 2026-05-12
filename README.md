@@ -22,7 +22,6 @@ Other knowledge
 - 📊 Kanban
 - 🐛 JIRA
 - 📄 Confluence
-- 🔄 Git / Gitlab
 
 ## 🛠️ Tech Stack
 
@@ -98,11 +97,19 @@ Other knowledge
 
 ## 🌎 Languages
 
-- 🇧🇷 Portuguese (Native)
-- 🇺🇸 English (Professional)
+<!-- - 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Professional) -->
+
+<table>
+  <tr>
+    <td>
+      <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" /> - 🇧🇷 Portuguese (Native)
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" />
+
   <img align="center" alt="US" height="40" width="40" src="./assets/united.png" title="English (Professional)" />
 </div>
 
