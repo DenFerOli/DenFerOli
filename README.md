@@ -79,7 +79,7 @@ Other knowledge
       <img align="center" alt="JMeter" height="50" width="120" src="https://jmeter.apache.org/images/logo.svg" title="JMeter">
     </td> -->
     <td align="center">
-      <img align="center" alt="JMeter" height="60" width="50" src=".\assets\apache-jmeter-white.png" title="JMeter">
+      <img align="center" alt="JMeter" height="60" width="60" src=".\assets\apache-jmeter-white.png" title="JMeter">
     </td>
   </tr>
 </table>
