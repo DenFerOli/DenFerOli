@@ -15,10 +15,12 @@ I perform manual and automated tests across:
 - 🐛 Managed bug tracking and test cases on GitLab
 - 📋 Write and manage test cases using TestLink for test tracking and organization.
 - 📝 Created release notes and feature documentation for end users
-<!--- Development and maintenance of API automation with Bruno -->
 
 Other knowledge
 
+- 🚀 Postman
+- 🐻 Bruno
+- 📊 JMeter
 - 📋 Scrum
 - 📊 Kanban
 - 🐛 JIRA
