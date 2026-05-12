@@ -62,7 +62,7 @@ Other knowledge
 
 <table>
   <tr>
-   <!--<td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>-->
+   <td><img align="center" alt="Cypress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress"></td>
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
     <td>
       <img align="center" alt="SikuliX" height="40" width="170" src=".\assets\sikulix.png" title="SikuliX" />
@@ -109,7 +109,10 @@ Other knowledge
       <img align="center" alt="PT-BR" height="40" width="40" src="./assets/brasil.png" title="Portuguese (Native)" /> Portuguese (Native)
     </td>
     <td>
-      <img align="center" alt="PT-BR" height="40" width="40" src="./assets/united.png" title="English (Professional)" /> English (Professional)
+      <img align="center" alt="EN-US" height="40" width="40" src="./assets/united.png" title="English (Professional)" /> English (Professional)
+    </td>
+    <td>
+      <img align="center" alt="DE" height="40" width="40" src="./assets/deutsch.png" title="German (Beginner)" /> German (Beginner)
     </td>
   </tr>
 </table>
