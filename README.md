@@ -74,7 +74,8 @@ Other knowledge
       <img align="center" alt="Bruno API" height="50" width="50" src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" title="Bruno">
     </td>
     <td align="center">
-      <img align="center" alt="JMeter" height="50" width="120" src="https://jmeter.apache.org/images/logo.svg" title="JMeter">
+      <!-- <img align="center" alt="JMeter" height="50" width="120" src="https://jmeter.apache.org/images/logo.svg" title="JMeter"> -->
+      <img align="center" alt="JMeter" height="50" width="50" src=".\assets\jmeter.png" title="JMeter">
     </td>
   </tr>
 </table>
