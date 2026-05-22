@@ -63,7 +63,7 @@ Other knowledge
 <table>
   <tr>
    <td>
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-181717?style=flat&logo=cypress&logoColor=white" height="40" width="130" />
+    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-181717?style=flat&logo=cypress&logoColor=white" height="40" width="130" title="Cypress" />
    </td>
     <td><img align="center" alt="Selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium"></td>
     <td>
