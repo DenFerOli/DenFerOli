@@ -99,7 +99,7 @@ Other knowledge
 
 ## Stats
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=DenFerOli&layout=compact)
 
 ## 🌎 Languages
 
