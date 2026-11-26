@@ -99,9 +99,7 @@ Other knowledge
 
 ## Stats
 
- <div align="center">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denferoli&layout=compact&langs_count=7&theme=dark" />
-</div>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 ## 🌎 Languages
 
