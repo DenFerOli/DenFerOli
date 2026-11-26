@@ -1,7 +1,5 @@
 # Denis Fernando
 
-![Top Langs](./profile/top-langs.svg)
-
 **Test Analyst | QA Automation | 2+ years experience**
 
 I perform manual and automated tests across:
